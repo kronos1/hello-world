@@ -1,2 +1,3 @@
 # hello-world
-yep
+
+First time using Git, gg.
